@@ -2,7 +2,7 @@
 
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 > 
-> 欢迎任何人参与和完善：一个人可以走的很快，但是一群人却可以走的更远。
+> 质疑计算机能不能思考，就相当于质疑潜艇能不能游泳。——艾兹格尔·迪科斯特拉
 
 * [在线阅读](https://cs.apachecn.org)
 * [在线阅读（Gitee）](https://apachecn.gitee.io/apachecn-cs-zh/)
