@@ -4,7 +4,7 @@
 > 
 > 质疑计算机能不能思考，就相当于质疑潜艇能不能游泳。——艾兹格尔·迪科斯特拉
 
-* [在线阅读](https://cs.apachecn.org)
+* [在线阅读](https://sys.apachecn.org)
 * [在线阅读（Gitee）](https://apachecn.gitee.io/apachecn-cs-zh/)
 * [ApacheCN 学习资源](http://docs.apachecn.org/)
 
