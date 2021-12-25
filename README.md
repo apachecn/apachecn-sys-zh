@@ -1,5 +1,7 @@
 # ApacheCN 计算机系统译文集
 
+> 处理器 / 操作系统 / 网络 / 数据库 / 编译器 / 分布式
+> 
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 > 
 > 质疑计算机能不能思考，就相当于质疑潜艇能不能游泳。——艾兹格尔·迪科斯特拉
